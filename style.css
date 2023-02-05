@@ -1,0 +1,17 @@
+
+body
+{
+    background-color: red;
+    color: white;
+font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    background-color: brown;
+    color: aqua;
+    width: 350px;
+    height: 25px;
+}
+
+
+
